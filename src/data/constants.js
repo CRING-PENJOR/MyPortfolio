@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://CRING-PENJOR.com",
   resume:
-    "https://www.canva.com/design/DAF7QLBVkCk/dKSRBc1k2WVJeKGxPSw1bg/edit?utm_content=DAF7QLBVkCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+  "https://drive.google.com/file/d/1VyniSE4b6lq0fv07AIbm6ifEW5xPWOot/view?usp=sharing"
   linkedin: "https://www.linkedin.com/in/tshering-penjor-8113422b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://twitter.com",
   insta: "https://www.instagram.com/itsmee_tshe_ring?igsh=MWZseG53aW0waXJyeQ==",
